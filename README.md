@@ -1,1 +1,2 @@
-This repository contains files  sql projects
+This repository contains the project work i done while I earning the sql.
+
